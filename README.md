@@ -1,8 +1,4 @@
 # Innovators2023
-[Jira](https://innovators2023.atlassian.net/jira/software/projects/KAN/boards/1)
-
-[Presentation Deck](https://docs.google.com/presentation/d/12yA15td0V8S1QSxxpfWo08aG7yNqr906Ei0KpzH-sTA/edit#slide=id.g2accd1c413_3_31)
-
 
 **Mike Sineiro**
 [GitHub](https://github.com/KrustyKode)
@@ -33,6 +29,12 @@
 
 
 ## topology.md
+
+Resources Used: 
+
+[Jira](https://innovators2023.atlassian.net/jira/software/projects/KAN/boards/1)
+
+[Presentation Deck](https://docs.google.com/presentation/d/12yA15td0V8S1QSxxpfWo08aG7yNqr906Ei0KpzH-sTA/edit#slide=id.g2accd1c413_3_31)
 
 
 ## teamagreement.md
