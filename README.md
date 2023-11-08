@@ -13,6 +13,8 @@ https://www.linkedin.com/in/michael-sineiro-4784b517b/
 
 
 # Juan Miguel Cano
-[GitHub](https://github.com/jmcano50)
-[LinkedIn](www.linkedin.com/in/juan-cano-3021578)
+## GitHub
+https://github.com/jmcano50
+## LinkedIn
+www.linkedin.com/in/juan-cano-3021578
 
