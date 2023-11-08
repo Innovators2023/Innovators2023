@@ -18,4 +18,6 @@
 [Github](https://github.com/Eveangalina)
 [LinkedIn](www.linkedin.com/in/eveangalina-s-campos-b42346176)
 
-
+# Israel QuirolaSalas
+[Github](https://github.com/israelqui)
+[LinkedIn](https://www.linkedin.com/in/israelquirola/)
