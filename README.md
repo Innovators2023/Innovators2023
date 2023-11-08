@@ -27,3 +27,6 @@
 [LinkedIn](https://www.linkedin.com/in/israelquirola/)
 
 ## sop.md
+
+
+## systemSelection.md
