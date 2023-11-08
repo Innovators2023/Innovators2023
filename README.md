@@ -1,10 +1,8 @@
 # Innovators2023
 
 # Mike Sineiro
-## GitHub
-https://github.com/KrustyKode
-## LinkedIn
-https://www.linkedin.com/in/michael-sineiro-4784b517b/
+[GitHub](https://github.com/KrustyKode)
+[LinkedIn](https://www.linkedin.com/in/michael-sineiro-4784b517b/)
 
 
 # Nick Watson
@@ -13,8 +11,11 @@ https://www.linkedin.com/in/michael-sineiro-4784b517b/
 
 
 # Juan Miguel Cano
-## GitHub
-https://github.com/jmcano50
-## LinkedIn
-www.linkedin.com/in/juan-cano-3021578
+[GitHub](https://github.com/jmcano50)
+[LinkedIn](www.linkedin.com/in/juan-cano-3021578)
+
+# Eveangalina Campos
+[Github](https://github.com/Eveangalina)
+[LinkedIn](www.linkedin.com/in/eveangalina-s-campos-b42346176)
+
 
