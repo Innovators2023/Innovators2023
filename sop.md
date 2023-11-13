@@ -5,3 +5,5 @@
 [Mike Sineiro FTP SOP.pdf](https://github.com/Innovators2023/Innovators2023/files/13342714/FTP.SOP.pdf)
 
 [Juan Miguel Cano SOP_ Remote Access.pdf](https://github.com/Innovators2023/Innovators2023/files/13342693/Juan.Miguel.Cano.SOP_.Remote.Access.pdf)
+
+[seattle-ops201d14_ OSDiversirty SOP (1).pdf](https://github.com/Innovators2023/Innovators2023/files/13342764/seattle-ops201d14_.OSDiversirty.SOP.1.pdf)
