@@ -40,8 +40,6 @@
 ## systemSelection.md
 
 
-## topology.md
-
 ## Topology
 ## FTP topology
 ![ftp topology](https://github.com/Innovators2023/Innovators2023/assets/146873292/f2939e3d-7ea1-40b0-9702-69f8ddbe12bf)
