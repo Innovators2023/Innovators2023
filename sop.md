@@ -9,3 +9,7 @@
 [Israel Quirola OSDiversirty SOP.pdf](https://github.com/Innovators2023/Innovators2023/files/13342764/seattle-ops201d14_.OSDiversirty.SOP.1.pdf)
 
 [Nick_User_Setup_SOP.pdf](https://github.com/Innovators2023/Innovators2023/files/13342883/Nick_User_Setup_SOP.pdf)
+
+[Eveangalina-Backup-Management-SOP.pdf](https://github.com/Innovators2023/Innovators2023/files/13343254/seattle-ops-201d14_.innovators-backup-SOP.pdf)
+
+
