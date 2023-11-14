@@ -35,7 +35,7 @@
 
 [Nick_User_Setup_SOP.pdf](https://github.com/Innovators2023/Innovators2023/files/13342883/Nick_User_Setup_SOP.pdf)
 
-[Eveangalina_Campos_Backup Management_SOP](https://docs.google.com/document/d/1Msrz6hWdsQqFXxeMnuPVeQP7RksMMw7AQ0ntqeeyak4/edit?usp=sharing)
+[Eveangalina_Campos_Backup Management_SOP.pdf](https://docs.google.com/document/d/1C1ttY6Olfp19dA9sSINcj6vnsZD4BMUnW2JRRvbZnBw/edit?usp=sharing)
 
 ## systemSelection.md
 
