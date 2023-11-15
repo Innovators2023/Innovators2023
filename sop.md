@@ -8,8 +8,8 @@
 
 [Israel Quirola OSDiversirty SOP.pdf](https://github.com/Innovators2023/Innovators2023/files/13342764/seattle-ops201d14_.OSDiversirty.SOP.1.pdf)
 
-[Nick_User_Setup_SOP.pdf](https://github.com/Innovators2023/Innovators2023/files/13342883/Nick_User_Setup_SOP.pdf)
+[Nick_User_Setup_SOP.pdf](https://docs.google.com/document/d/1XKNodVYy9l1-3PO9yInvS70rF2B4WMb0PxVUq6YFRjY/edit?usp=sharing)
 
 [Eveangalina-Backup-Management-SOP.pdf](https://github.com/Innovators2023/Innovators2023/files/13343254/seattle-ops-201d14_.innovators-backup-SOP.pdf)
 
-[Acceptable Use Policy.pdf](https://github.com/Innovators2023/Innovators2023/files/13357917/Acceptable.Use.Policy.pdf)
+[Acceptable Use Policy.pdf](https://docs.google.com/document/d/1XrXLTgP3lgJmEHakTwH3P3FaARwysieYQbz0LdQ4Rkw/edit?usp=sharing)
