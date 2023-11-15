@@ -23,11 +23,11 @@
 [LinkedIn](https://www.linkedin.com/in/israelquirola/)
 
 ## sop.md
-[Mike Sineiro Gmail SOP.pdf](https://github.com/Innovators2023/Innovators2023/files/13342744/Gmail.SOP.pdf)
+[Mike Sineiro Gmail SOP](https://docs.google.com/document/d/144JwWqHc1LJxPG4sFkaJIx130UgVH8EqRAj7QZHo31Y/edit)
 
-[Mike Sineiro Zoom SOP.pdf](https://github.com/Innovators2023/Innovators2023/files/13342716/Zoom.SOP.pdf)
+[Mike Sineiro Zoom SOP](https://docs.google.com/document/d/1DJvB73nXfSNYp4_9MimYRtUvETSRQxhd0c1EBQ6h2b8/edit)
 
-[Mike Sineiro FTP SOP.pdf](https://github.com/Innovators2023/Innovators2023/files/13342714/FTP.SOP.pdf)
+[Mike Sineiro FTP SOP](https://docs.google.com/document/d/1eF4LUrJo-GMlzOq_jzRFeS1f1yPl9HB_bsa-uzMZiYY/edit)
 
 [Juan Miguel Cano SOP_ Remote Access.pdf](https://github.com/Innovators2023/Innovators2023/files/13342693/Juan.Miguel.Cano.SOP_.Remote.Access.pdf)
 
