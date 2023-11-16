@@ -6,7 +6,7 @@
 
 [Juan Miguel Cano SOP_ Remote Access.pdf](https://github.com/Innovators2023/Innovators2023/files/13342693/Juan.Miguel.Cano.SOP_.Remote.Access.pdf)
 
-[Israel Quirola OSDiversirty SOP.pdf](https://github.com/Innovators2023/Innovators2023/files/13342764/seattle-ops201d14_.OSDiversirty.SOP.1.pdf)
+[Israel Quirola OSDiversirty SOP.pdf](https://docs.google.com/document/d/1bAVhJhCvK3MrTP6_5MakO6mYiAmQE4a1RGt7zayfBag/edit)
 
 [Nick_User_Setup_SOP.pdf](https://docs.google.com/document/d/1XKNodVYy9l1-3PO9yInvS70rF2B4WMb0PxVUq6YFRjY/edit?usp=sharing)
 
