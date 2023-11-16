@@ -31,7 +31,7 @@
 
 [Juan Miguel Cano SOP_ Remote Access](https://docs.google.com/document/d/1OWBQ66rluAn_5C4ZV2DKgB6v9ixWqVto72n_GRoCLqY/edit?usp=sharing)
 
-[Israel Quirola OSDiversirty SOP](https://github.com/Innovators2023/Innovators2023/files/13342764/seattle-ops201d14_.OSDiversirty.SOP.1.pdf)
+[Israel Quirola OSDiversirty SOP](https://docs.google.com/document/d/1bAVhJhCvK3MrTP6_5MakO6mYiAmQE4a1RGt7zayfBag/edit)
 
 [Nick_User_Setup_SOP](https://github.com/Innovators2023/Innovators2023/files/13342883/Nick_User_Setup_SOP.pdf)
 
