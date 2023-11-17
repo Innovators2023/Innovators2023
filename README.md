@@ -54,7 +54,9 @@
 
 ## User Setup![User_Setup](https://github.com/Innovators2023/Innovators2023/assets/107386231/b0f3b85d-c24d-4f79-8e2b-cca4dcf27394)
 
-## teamagreement.md
+## Team Agreement.
+
+- [Team Agreement](https://docs.google.com/document/d/1V5ot4aY_4njdWvdygUpvuYQBkzbfVkyp8ONnQvK93J8/edit?usp=sharing)
 
 ## Resources Used: 
 
