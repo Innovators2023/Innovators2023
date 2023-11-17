@@ -1,45 +1,45 @@
 # Innovators2023
 
-**Mike Sineiro**
+- **Mike Sineiro**
 [GitHub](https://github.com/KrustyKode)
 [LinkedIn](https://www.linkedin.com/in/michael-sineiro-4784b517b/)
 
 
-**Nick Watson**
+- **Nick Watson**
 [Github](https://github.com/GODKINGDEATHLORD)
 [Linkdln](https://www.linkedin.com/in/nicolaus-watson/)
 
 
-**Juan Miguel Cano**
+- **Juan Miguel Cano**
 [GitHub](https://github.com/jmcano50)
 [LinkedIn](www.linkedin.com/in/juan-cano-3021578)
 
-**Eveangalina Campos**
+- **Eveangalina Campos**
 [Github](https://github.com/Eveangalina)
 [LinkedIn](www.linkedin.com/in/eveangalina-s-campos-b42346176)
 
-**Israel QuirolaSalas**
+- **Israel QuirolaSalas**
 [Github](https://github.com/israelqui)
 [LinkedIn](https://www.linkedin.com/in/israelquirola/)
 
 ## SOP
-[Mike Sineiro Gmail SOP](https://docs.google.com/document/d/144JwWqHc1LJxPG4sFkaJIx130UgVH8EqRAj7QZHo31Y/edit)
+- [Mike Sineiro Gmail SOP](https://docs.google.com/document/d/144JwWqHc1LJxPG4sFkaJIx130UgVH8EqRAj7QZHo31Y/edit)
 
-[Mike Sineiro Zoom SOP](https://docs.google.com/document/d/1DJvB73nXfSNYp4_9MimYRtUvETSRQxhd0c1EBQ6h2b8/edit)
+- [Mike Sineiro Zoom SOP](https://docs.google.com/document/d/1DJvB73nXfSNYp4_9MimYRtUvETSRQxhd0c1EBQ6h2b8/edit)
 
-[Mike Sineiro WinSCP SOP](https://docs.google.com/document/d/1eF4LUrJo-GMlzOq_jzRFeS1f1yPl9HB_bsa-uzMZiYY/edit)
+- [Mike Sineiro WinSCP SOP](https://docs.google.com/document/d/1eF4LUrJo-GMlzOq_jzRFeS1f1yPl9HB_bsa-uzMZiYY/edit)
 
-[Juan Miguel Cano SOP_ Remote Access](https://docs.google.com/document/d/1OWBQ66rluAn_5C4ZV2DKgB6v9ixWqVto72n_GRoCLqY/edit?usp=sharing)
+- [Juan Miguel Cano SOP_ Remote Access](https://docs.google.com/document/d/1OWBQ66rluAn_5C4ZV2DKgB6v9ixWqVto72n_GRoCLqY/edit?usp=sharing)
 
-[Israel Quirola OSDiversirty SOP](https://docs.google.com/document/d/1bAVhJhCvK3MrTP6_5MakO6mYiAmQE4a1RGt7zayfBag/edit)
+- [Israel Quirola OSDiversirty SOP](https://docs.google.com/document/d/1bAVhJhCvK3MrTP6_5MakO6mYiAmQE4a1RGt7zayfBag/edit)
 
-[Nick_User_Setup_SOP](https://docs.google.com/document/d/1XKNodVYy9l1-3PO9yInvS70rF2B4WMb0PxVUq6YFRjY/edit?usp=sharing)
+- [Nick_User_Setup_SOP](https://docs.google.com/document/d/1XKNodVYy9l1-3PO9yInvS70rF2B4WMb0PxVUq6YFRjY/edit?usp=sharing)
 
-[Eveangalina_Campos_Backup Management_SOP](https://docs.google.com/document/d/1C1ttY6Olfp19dA9sSINcj6vnsZD4BMUnW2JRRvbZnBw/edit?usp=sharing)
+- [Eveangalina_Campos_Backup Management_SOP](https://docs.google.com/document/d/1C1ttY6Olfp19dA9sSINcj6vnsZD4BMUnW2JRRvbZnBw/edit?usp=sharing)
 
 ## Acceptable Use Policy
 
-[AUP](https://docs.google.com/document/d/1XrXLTgP3lgJmEHakTwH3P3FaARwysieYQbz0LdQ4Rkw/edit?usp=sharing)
+- [AUP](https://docs.google.com/document/d/1XrXLTgP3lgJmEHakTwH3P3FaARwysieYQbz0LdQ4Rkw/edit?usp=sharing)
 
 ## System Selection
 
