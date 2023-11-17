@@ -55,7 +55,7 @@
 
 ## User Setup!
 
-[User_Setup](https://github.com/Innovators2023/Innovators2023/assets/107386231/b0f3b85d-c24d-4f79-8e2b-cca4dcf27394)
+- [User_Setup](https://github.com/Innovators2023/Innovators2023/assets/107386231/b0f3b85d-c24d-4f79-8e2b-cca4dcf27394)
 
 ## Team Agreement.
 
