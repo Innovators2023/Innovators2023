@@ -33,7 +33,7 @@
 
 [Israel Quirola OSDiversirty SOP](https://docs.google.com/document/d/1bAVhJhCvK3MrTP6_5MakO6mYiAmQE4a1RGt7zayfBag/edit)
 
-[Nick_User_Setup_SOP](https://github.com/Innovators2023/Innovators2023/files/13342883/Nick_User_Setup_SOP.pdf)
+[Nick_User_Setup_SOP](https://docs.google.com/document/d/1XKNodVYy9l1-3PO9yInvS70rF2B4WMb0PxVUq6YFRjY/edit?usp=sharing)
 
 [Eveangalina_Campos_Backup Management_SOP](https://docs.google.com/document/d/1C1ttY6Olfp19dA9sSINcj6vnsZD4BMUnW2JRRvbZnBw/edit?usp=sharing)
 
