@@ -60,6 +60,6 @@
 
 ## Resources Used: 
 
-[Jira](https://innovators2023.atlassian.net/jira/software/projects/KAN/boards/1)
+- [Jira](https://innovators2023.atlassian.net/jira/software/projects/KAN/boards/1)
 
-[Presentation Deck](https://docs.google.com/presentation/d/1bOQFoEweMoB6xL6z5Bvr2pu8pQJvrbQB/edit?usp=sharing&ouid=101109108239162346948&rtpof=true&sd=true)
+- [Presentation Deck](https://docs.google.com/presentation/d/1bOQFoEweMoB6xL6z5Bvr2pu8pQJvrbQB/edit?usp=sharing&ouid=101109108239162346948&rtpof=true&sd=true)
