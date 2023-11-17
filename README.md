@@ -12,7 +12,7 @@
 
 - **Juan Miguel Cano**
 [GitHub](https://github.com/jmcano50)
-[LinkedIn](www.linkedin.com/in/juan-cano-3021578)
+[LinkedIn](https://www.linkedin.com/in/juan-cano-3021578/)
 
 - **Eveangalina Campos**
 [Github](https://github.com/Eveangalina)
