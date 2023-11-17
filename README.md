@@ -43,7 +43,7 @@
 
 ## System Selection
 
-[System Selection](https://github.com/Innovators2023/Innovators2023/blob/main/systemSelection.md)
+- [System Selection](https://github.com/Innovators2023/Innovators2023/blob/main/systemSelection.md)
 
 ## Topology
 - ## FTP topology
