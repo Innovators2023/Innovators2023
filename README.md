@@ -22,7 +22,7 @@
 [Github](https://github.com/israelqui)
 [LinkedIn](https://www.linkedin.com/in/israelquirola/)
 
-## sop.md
+## SOP
 [Mike Sineiro Gmail SOP](https://docs.google.com/document/d/144JwWqHc1LJxPG4sFkaJIx130UgVH8EqRAj7QZHo31Y/edit)
 
 [Mike Sineiro Zoom SOP](https://docs.google.com/document/d/1DJvB73nXfSNYp4_9MimYRtUvETSRQxhd0c1EBQ6h2b8/edit)
@@ -37,10 +37,11 @@
 
 [Eveangalina_Campos_Backup Management_SOP](https://docs.google.com/document/d/1C1ttY6Olfp19dA9sSINcj6vnsZD4BMUnW2JRRvbZnBw/edit?usp=sharing)
 
-##Accptable Use Policy
+## Acceptable Use Policy
+
 [AUP](https://docs.google.com/document/d/1XrXLTgP3lgJmEHakTwH3P3FaARwysieYQbz0LdQ4Rkw/edit?usp=sharing)
 
-## systemSelection.md
+## System Selection
 
 
 ## Topology
