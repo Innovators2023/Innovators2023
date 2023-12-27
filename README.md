@@ -66,3 +66,4 @@
 - [Jira](https://innovators2023.atlassian.net/jira/software/projects/KAN/boards/1)
 
 - [Presentation Deck](https://docs.google.com/presentation/d/1bOQFoEweMoB6xL6z5Bvr2pu8pQJvrbQB/edit?usp=sharing&ouid=101109108239162346948&rtpof=true&sd=true)
+- [Recorded Presentation](https://zoom.us/rec/play/EviH7uVDkWrJ8Qjo_pQK11g3L8LHspQbyNY6UZ75XMWrI_WIVQKPsICn3Z-HJqfqnk_D91zV9zmNsojH.HsTdnkfLPuS2CARc?canPlayFromShare=true&from=recording_mg&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FwKOyqwJxib8l7a-MUkr3WKNT3EG7tnTsdpIw8KV_He4coSToh0FKvBN5Lqxms0w.VGvto-GGQbnwRAng)
